@@ -13,7 +13,7 @@ const Calculator = () => {
 
 	return (
 		<div className="mx-10 my-10">
-			<h2 className="text-4xl mb-5 font-extrabold dark:text-white">
+			<h2 className="text-4xl mb-5 font-extrabold dark:text-white text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
 				Price Calculator
 			</h2>
 

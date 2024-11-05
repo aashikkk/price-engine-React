@@ -29,7 +29,7 @@ const PriceList = () => {
 
 	return (
 		<div className="mx-10 my-10">
-			<h2 className="text-4xl  font-extrabold dark:text-white">
+			<h2 className="text-4xl text-blue-600 font-extrabold dark:text-white">
 				Price List for (1-50 Units)
 			</h2>
 			<div className="relative overflow-x-auto my-5 shadow-md sm:rounded-lg">
